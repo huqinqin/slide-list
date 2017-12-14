@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "description": "talk",
-  "author": "huqin <896268808@qq.com>>",
+  "author": "huqin <896268808@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
